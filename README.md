@@ -1,4 +1,4 @@
-# Step by Step R
+# A Step-by-Step Basic Introduction to R
 
 If you prefer full length video, consider watching [R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug&t=3147s). 
 
