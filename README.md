@@ -17,3 +17,15 @@ install.packages('IRkernel')
 IRkernel::installspec()  # to register the kernel in the current R installation
 ```
 
+## Table of Content
+1. [Plotting](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/1_plotting.ipynb)
+2. [Barcharts](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/2_BarChart.ipynb)
+3. [Histograms](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/3_Histogram.ipynb)
+4. [Scatterplots](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/4_Scatterplot.ipynb)
+5. [Overlaying plots](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/5_overlayingPlot.ipynb)
+6. [summray()](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/6_summary.ipynb)
+7. []()
+8. []()
+9. []()
+10. []()
+11. []()
