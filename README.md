@@ -1,8 +1,9 @@
 # A Step-by-Step Basic Introduction to R
 
-If you prefer full length video, consider watching [R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug&t=3147s). 
+If you prefer full length video, please consider watching [R Programming Tutorial - Learn the Basics of Statistical Computing](https://www.youtube.com/watch?v=_V8eKsto3Ug&t=3147s). 
 
 This repo is a documented walkthrough of the above linked tutorial.
+
 Also beneficial for those of you who prefer `Jupyter` over `R Studio`.
 
 To run the notebook at your end you need: 
