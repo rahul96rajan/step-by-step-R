@@ -17,3 +17,15 @@ install.packages('IRkernel')
 IRkernel::installspec()  # to register the kernel in the current R installation
 ```
 
+## Table of Content
+1. [Plotting](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/1_plotting.ipynb)
+2. [Barcharts](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/2_BarChart.ipynb)
+3. [Histograms](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/3_Histogram.ipynb)
+4. [Scatterplots](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/4_Scatterplot.ipynb)
+5. [Overlaying plots](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/5_overlayingPlot.ipynb)
+6. [summray()](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/6_summary.ipynb)
+7. [Selecting Cases](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/7_Selecting_cases.ipynb)
+8. [Data Formats](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/8_Data_Formats.ipynb)
+9. [Factors](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/9_Factor.ipynb)
+10. [Entering Data](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/10_Entering_Data.ipynb)
+11. [Importing Data](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/11_Import_Data.ipynb)
