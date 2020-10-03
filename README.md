@@ -29,3 +29,6 @@ IRkernel::installspec()  # to register the kernel in the current R installation
 9. [Factors](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/9_Factor.ipynb)
 10. [Entering Data](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/10_Entering_Data.ipynb)
 11. [Importing Data](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/11_Import_Data.ipynb)
+12. [Hierarchical Clustering](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/12_Hierarchical_clustering.ipynb)
+13. [Principal Component Analysis](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/13_Principal_components.ipynb)
+14. [Regression](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/14_Regression.ipynb)
