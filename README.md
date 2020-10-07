@@ -24,7 +24,7 @@ IRkernel::installspec()  # to register the kernel in the current R installation
 3. [Histograms](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/3_Histogram.ipynb)
 4. [Scatterplots](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/4_Scatterplot.ipynb)
 5. [Overlaying plots](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/5_overlayingPlot.ipynb)
-6. [summray()](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/6_summary.ipynb)
+6. [summary()](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/6_summary.ipynb)
 7. [Selecting Cases](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/7_Selecting_cases.ipynb)
 8. [Data Formats](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/8_Data_Formats.ipynb)
 9. [Factors](https://github.com/rahul96rajan/step-by-step-R/blob/master/Notebooks/9_Factor.ipynb)
