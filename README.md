@@ -6,7 +6,8 @@ This repo is a documented walkthrough of the above linked tutorial.
 
 Also beneficial for those of you who prefer `Jupyter` over `R Studio`.
 
-To run the notebook at your end you need: 
+To run the notebook at your end you need:
+
 	1. Jupyter notebook installed
 	2. IRKernel library installed and R kernel registered.
 
